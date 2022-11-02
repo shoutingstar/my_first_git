@@ -9,7 +9,8 @@
 <style></style>
 </head>
 <body>
-
+	<h3>폐기 기능</h3>
+	<P>커밋 하기전 변경된 내용 취소하는 기능</P>
 </body>
 <script></script>
 </html>
